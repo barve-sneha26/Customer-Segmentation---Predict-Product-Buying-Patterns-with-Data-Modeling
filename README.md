@@ -16,7 +16,7 @@ This project was developed in collaboration with **Straumann USA, LLC**, a globa
 - **Programming Languages:** Python
 - **Data Analysis:** Pandas, NumPy
 - **Machine Learning:** scikit-learn
-- **Data Visualization:** Matplotlib, Seaborn
+- **Data Visualization:** Matplotlib, Seaborn, Dash, Plotly
 - **Database Querying:** SQL
 - **Cloud and Big Data:** BigQuery, AWS, Databricks
 - **Interactive Applications:** Streamlit
