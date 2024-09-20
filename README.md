@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was developed in collaboration with **Straumann USA, LLC**, a global leader in esthetic dentistry based in Andover, MA. Straumann's mission is to improve lives by enhancing oral health, boosting self-confidence, and restoring self-esteem. The primary objective of this project was to analyze customer buying patterns and build predictive models capable of forecasting product purchases, with a focus on identifying opportunities for product bundling. This approach supports Straumann’s goal of delivering targeted marketing campaigns and enhancing cross-selling and up-selling strategies.
+This project was developed to analyze customer buying patterns and build predictive models capable of forecasting product purchases, with a focus on identifying opportunities for product bundling. The primary objective was to leverage data-driven insights to enhance targeted marketing campaigns and optimize cross-selling and up-selling strategies, ultimately driving business growth and improving customer satisfaction.
 
 ## Project Goals
 
@@ -18,7 +18,6 @@ This project was developed in collaboration with **Straumann USA, LLC**, a globa
 - **Machine Learning:** scikit-learn
 - **Data Visualization:** Matplotlib, Seaborn, Dash, Plotly
 - **Database Querying:** SQL
-- **Cloud and Big Data:** BigQuery, AWS, Databricks
 - **Interactive Applications:** Streamlit
 
 ## Methodologies and Approach
@@ -38,15 +37,11 @@ The project’s primary output was a predictive model capable of guiding the mar
 
 ## Business Impact
 
-This initiative empowers Straumann to optimize their marketing strategies, drive revenue growth, and improve customer retention by offering highly personalized product recommendations. The model’s continuous learning capabilities allow it to stay aligned with evolving customer preferences, ensuring relevance over time. By applying advanced data science techniques, this project enhances Straumann's ability to deliver targeted solutions that address customer needs while advancing their business objectives.
+This initiative optimizes marketing strategies, drives revenue growth, and improves customer retention by offering highly personalized product recommendations. The model’s continuous learning capabilities allow it to stay aligned with evolving customer preferences, ensuring relevance over time. By applying advanced data science techniques, this project demonstrates the power of data-driven decision-making in enhancing business outcomes.
 
-
-## Guidance and Mentorship
-
-This project was developed under the guidance of industry experts, ensuring adherence to best practices and achieving impactful results.
 
 ## Conclusion
 
 This project highlights the significant role data science and machine learning play in driving business value. By transforming raw data into actionable insights, we improved operational efficiency and enhanced the overall customer experience. The ability to continuously learn and adapt is crucial in today’s fast-paced market, and this project demonstrates how cutting-edge technology can help businesses stay competitive.
 
-I’m proud to have contributed to Straumann’s mission of transforming lives through esthetic dentistry, and this project showcases our commitment to using innovative solutions to create meaningful impact.
+This project showcases our commitment to using innovative solutions to create meaningful impact, furthering my expertise in the field of data science.
